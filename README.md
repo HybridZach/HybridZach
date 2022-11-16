@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HybridZach
 - 👀 I’m interested in coding and programming in general. 
 - 🌱 I’m currently learning Python, C, C++
-- 📫 How to reach me daveyzach36@gmail.com
+- 📫 How to reach me sdudexd@gmail.com
 
 <!---
 HybridZach/HybridZach is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
