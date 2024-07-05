@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HybridZach
 - 👀 I’m interested in coding and programming in general. 
-- 🌱 I’m currently learning Python, C, C++
+- 🌱 I’m currently learning Python, C.
 - 📫 How to reach me sdudexd@gmail.com
 
 <!---
